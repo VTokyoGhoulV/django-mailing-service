@@ -1,9 +1,9 @@
 [project]
-name = "djangocoursework"
+name = "django-mailing-service"
 version = "0.1.0"
-description = ""
+description = "Email mailing management service with user permissions and delivery statistics"
 authors = [
-    {name = "Your Name",email = "you@example.com"}
+    {name = "VTokyoGhoulV"}
 ]
 requires-python = "^3.14"
 dependencies = [
